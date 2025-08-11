@@ -1,0 +1,13 @@
+fastapi==0.115.12
+uvicorn==0.34.2
+python-multipart==0.0.20
+pypdf==6.0.0
+pdfplumber==0.11.7
+langchain==0.3.27
+langchain-text-splitters==0.3.9
+chromadb==1.0.16
+google-generativeai==0.3.2
+python-dotenv==1.1.0
+numpy==2.2.2
+aiofiles==24.1.0
+streamlit==1.42.0
