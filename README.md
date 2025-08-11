@@ -22,8 +22,8 @@ A comprehensive Python application that converts raw PDF documents into vectoriz
 
 1. **Clone the repository**:
    ```bash
-   git clone <your-repo-url>
-   cd dfr
+   git clone https://github.com/Lokesh1028/Document-QA-RAG.git
+   cd Document-QA-RAG
    ```
 
 2. **Install dependencies**:
